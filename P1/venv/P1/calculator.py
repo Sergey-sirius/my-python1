@@ -4,11 +4,11 @@ oper=input('rule')
 result = None
 
 if oper == '+':
-   result=x+y
+    result=x+y
 elif oper == '-':
-   result=x-y
+    result=x-y
 else:
-   print('Not support rule')
+    print('Not support rule')
 
 
 if result is not None:
