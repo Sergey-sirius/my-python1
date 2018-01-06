@@ -1,3 +1,7 @@
+
+
+
+
 str1 = 'hel'
 str2 = 'lo'
 result = str1 + str2
